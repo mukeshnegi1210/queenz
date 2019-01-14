@@ -1,0 +1,9 @@
+#ff7f21 #0009ff  #353232  #d65d05  #6b7d85
+
+
+By Queenz Livings
+<button class="btn" type="submit"><span class="fas fa-heart pr-2"></span>Add to Wishlist</button>
+                                            <button class="btn" type="submit"><span class="fas fa-cart-plus pr-2"></span>Add to Cart</button>
+                                            
+                                            
+                                                font-family: 'Lato', sans-serif;
